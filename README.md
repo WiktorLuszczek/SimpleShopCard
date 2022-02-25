@@ -1,7 +1,7 @@
-Projekt realizowany w ramach nauki w Kodilla.
+# Projekt realizowany w ramach nauki w Kodilla.
 
 
-
+************************************
 
 
 
